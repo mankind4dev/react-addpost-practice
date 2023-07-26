@@ -1,0 +1,36 @@
+{
+  "name": "react-addpost-practice",
+  "private": true,
+  "version": "6.14.15",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "react": "^18.2.0",
+    "react-axios": "^2.0.6",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.9.0",
+    "react-router-dom": "^6.14.2",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.37",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^4.0.0",
+    "eslint": "^8.38.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.3.4",
+    "vite": "^4.3.9"
+  },
+  "description": "I'm So happy to push this to my github. I'm proud of myself in app developing. I'm now 75%. loading ",
+  "main": "vite.config.js",
+  "author": "Sunday A Ogunmakin",
+  "license": "ISC"
+}
